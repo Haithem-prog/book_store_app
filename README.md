@@ -1,7 +1,7 @@
 # Task 3 - Book Store App
 
 Task resolution process:
-
+-trying somthn
 - Fork the repo
 - Clone the forked repo to your local machine
 - Resolve the task
